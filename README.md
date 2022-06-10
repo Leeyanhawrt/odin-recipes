@@ -1,0 +1,2 @@
+This project is designed to create a website consisting of multiple links leading to different recipes. This will also be the first project I have completed following The Odin Project!
+After completing this project I will have demonstrated that I am able to link multiple webpages together successfully on the terminal using relative references.
